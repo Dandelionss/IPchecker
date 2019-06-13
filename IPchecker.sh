@@ -12,7 +12,7 @@ then
 echo -e "恭喜，您的小鸡$1还活着！"
 wget https://sc.ftqq.com/$ft_sckey.send?text=真幸运，您的小鸡鸡$1还活着，恭喜！
 else
-echo -e "正在准备进行第二次检测哦。"
+echo -e "正在准备进行第一次检测哦。"
 sleep 5
 ipcheck_two $1
 fi
@@ -24,7 +24,7 @@ then
 echo -e "恭喜，您的小鸡$1还活着！"
 wget https://sc.ftqq.com/$ft_sckey.send?text=真幸运，您的小鸡鸡$1还活着，恭喜！
 else
-echo -e "正在准备进行第三次检测哦。"
+echo -e "正在准备进行第二次检测哦。"
 sleep 5
 ipcheck_three $1
 fi 
