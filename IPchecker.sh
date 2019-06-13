@@ -1,6 +1,6 @@
 #!/bin/bash
 #按格式将ip填入iplist中
-iplist=('x.x.x.x' 'xx.xx.xx.xx')
+ip=('x.x.x.x' 'xx.xx.xx.xx')
 #需要检测几个IP就在上方填入几个IP。
 #写入Server酱的秘钥
 #Server酱地址http://sc.ftqq.com/3.version  github账号登入即可获取秘钥，详情请看使用准则
